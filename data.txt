@@ -1,0 +1,2 @@
+TRAIN DATA- https://www.kaggle.com/c/digit-recognizer/download/train.csv
+TEST DATA- https://www.kaggle.com/c/digit-recognizer/download/test.csv
